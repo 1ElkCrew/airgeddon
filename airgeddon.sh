@@ -309,6 +309,7 @@ known_compatible_distros=(
 							"Fedora"
 							"Red Hat"
 							"Arch"
+							"Manjaro"
 							"OpenMandriva"
 							"Pentoo"
 						)
